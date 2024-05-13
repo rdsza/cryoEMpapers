@@ -12,7 +12,7 @@
 |2011|Methods in Enzymology|[Automation in Single-Particle Electron Microscopy: Connecting the Pieces](https://www.sciencedirect.com/science/article/pii/S0076687910830150)|
 |2014|Trends in Biochemical Sciences|[How cryo-EM is revolutionizing structural biology](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(14)00187-X)|
 |2013|Review of Scientific Instruments|[Methods for imaging weak-phase objects in electron microscopy](https://pubs.aip.org/aip/rsi/article/84/11/111101/358769)|
-
+|2000|Acta D Structural Biology|[Resolution measurement in structures derived from single particles](https://journals.iucr.org/d/issues/2000/10/00/ba0039/index.html)|
 
 ## Direct Electron Detector
 |Year|Publisher|Title|
