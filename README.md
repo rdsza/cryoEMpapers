@@ -9,7 +9,9 @@
 |2016|Microscopy|[Principles of cryo-EM single-particle image processing](https://academic.oup.com/jmicro/article/65/1/57/2579723)|
 |2015|Cell|[A Primer to Single-Particle Cryo-Electron Microscopy](https://www.sciencedirect.com/science/article/pii/S0092867415003700?via%3Dihub)|
 |2015|Cell|[Single-Particle Cryo-EM at Crystallographic Resolution](https://www.sciencedirect.com/science/article/pii/S0092867415003694)|
-|201|Methods in Enzymology|[Automation in Single-Particle Electron Microscopy: Connecting the Pieces](https://www.sciencedirect.com/science/article/pii/S0076687910830150)|
+|2011|Methods in Enzymology|[Automation in Single-Particle Electron Microscopy: Connecting the Pieces](https://www.sciencedirect.com/science/article/pii/S0076687910830150)|
+|2014|Trends in Biochemical Sciences|[How cryo-EM is revolutionizing structural biology](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(14)00187-X)|
+|2013|Review of Scientific Instruments|[Methods for imaging weak-phase objects in electron microscopy](https://pubs.aip.org/aip/rsi/article/84/11/111101/358769)|
 
 
 ## Direct Electron Detector
